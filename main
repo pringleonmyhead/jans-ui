@@ -1,6 +1,6 @@
 local args = table.pack(...)[1] or {}
 local library = {
-    title = args.title or "Window",
+    title = args.title or "RickWare.cc",
     foldername = args.foldername or "UILibrary",
     fileext = args.fileext or ".json",
     gamename = args.gamename or "universal",
